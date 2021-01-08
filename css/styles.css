@@ -18,8 +18,22 @@ body {
   margin-bottom: 10px;
 }
 
+.card {
+  background-color: #649173;
+  width: 500px;
+}
+
+.card-text li{
+  margin-bottom: 5px;
+}
+
 img {
   width: 25%;
+  height: auto;
+}
+
+img.tiny {
+  width: 5%;
   height: auto;
 }
 
