@@ -1,12 +1,17 @@
+
+body {
+  font-family: Palatino;
+}
+
+img {
+  width: 25%;
+  height: auto;
+}
+
 .jumbotron {
   text-align: center;
 }
 
 .navigation p {
   margin: 0;
-}
-
-img {
-  width: 25%;
-  height: auto;
 }
