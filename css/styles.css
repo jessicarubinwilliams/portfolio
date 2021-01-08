@@ -35,6 +35,10 @@ body {
   margin-bottom: 5px;
 }
 
+.centered {
+  text-align: center;
+}
+
 .exciting {
   background-color: rgb(37, 199, 202);
 }
@@ -61,6 +65,10 @@ img.tiny {
 
 .navigation p {
   margin: 0;
+}
+
+.popout {
+  margin: 50px;
 }
 
 strong {
