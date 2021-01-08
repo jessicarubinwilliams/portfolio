@@ -1,6 +1,21 @@
 
+a {
+  color: darkslateblue;
+}
+
 body {
   font-family: Palatino;
+  background-color: #649173;
+}
+
+.box1 {
+  float: right;
+  box-sizing: border-box;
+  width: 65%;
+  padding: 15px;
+  border: solid black;
+  background-color: #795761;
+  margin-bottom: 10px;
 }
 
 img {
@@ -10,6 +25,7 @@ img {
 
 .jumbotron {
   text-align: center;
+  background-color: #3f7a53;
 }
 
 .navigation p {
