@@ -27,6 +27,10 @@ body {
   margin-bottom: 5px;
 }
 
+.exciting {
+  background-color: rgb(37, 199, 202);
+}
+
 img {
   width: 25%;
   height: auto;
@@ -38,6 +42,10 @@ img.tiny {
   height: auto;
 }
 
+.important {
+  text-decoration: underline;
+}
+
 .jumbotron {
   text-align: center;
   background-color: #3f7a53;
@@ -45,4 +53,8 @@ img.tiny {
 
 .navigation p {
   margin: 0;
+}
+
+strong {
+  text-transform: uppercase;
 }
