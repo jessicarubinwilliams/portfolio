@@ -18,6 +18,14 @@ body {
   margin: 10px;
 }
 
+.box2 {
+  box-sizing: border-box;
+  padding: 15px;
+  border: solid black;
+  background-color: #795761;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .card {
   background-color: #649173;
   width: 500px;
