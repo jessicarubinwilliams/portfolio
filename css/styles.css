@@ -5,3 +5,8 @@
 .navigation p {
   margin: 0;
 }
+
+img {
+  width: 25%;
+  height: auto;
+}
