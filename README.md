@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _An HTML webpage styled with CSS to house my programming portfolio._
+#### _An HTML website styled with CSS to house my programming portfolio._
 
 #### By _**Jessica R. Williams**_
 
