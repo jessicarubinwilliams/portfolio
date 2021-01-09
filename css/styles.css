@@ -91,3 +91,8 @@ img.tiny {
 strong {
   text-transform: uppercase;
 }
+
+.wide {
+  margin: 20px;
+  margin-bottom: 40px;
+}
