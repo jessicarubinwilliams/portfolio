@@ -76,6 +76,10 @@ img.tiny {
   margin: 0;
 }
 
+.narrow {
+  margin: 0;
+}
+
 .popout {
   margin: 50px;
 }

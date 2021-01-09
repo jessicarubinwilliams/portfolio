@@ -23,7 +23,7 @@ This is a nested website. The main page contains information about my current pr
 * _Navigate to the top level of the repository with the command $ cd portfolio_
 * _Open index.html in the browser of you choice with the command $ open index.html_.
 
-* _Alternatively direct your browser to jessicarubinwilliams.github.io/portfolio/index.html_
+* _Alternatively direct your browser to http://jessicarubinwilliams.github.io/portfolio/index.html_
 
 ## Known Bugs
 
