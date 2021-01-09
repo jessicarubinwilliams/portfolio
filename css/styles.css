@@ -76,6 +76,10 @@ img.tiny {
   margin: 50px;
 }
 
+.right {
+  float: right;
+}
+
 strong {
   text-transform: uppercase;
 }
