@@ -28,6 +28,8 @@ This is a nested website. The main page contains information about my current pr
 ## Known Bugs
 
 * _img/headshot.jpg is not an especially flattering photo. It will be replaced with a more flattering image when one is obtained._
+* _The Quilting section of skills.html needs to be fleshed out to be congruent with the other sections of that page._
+* _resume.html needs to be updated with content. It currently contains a link to my resume on a another of my repository's GitHub Pages._
 
 ## License
 *[MIT](https://choosealicense.com/licenses/mit/)*
