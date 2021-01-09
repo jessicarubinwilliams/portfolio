@@ -44,6 +44,10 @@ body {
   background-color: rgb(37, 199, 202);
 }
 
+.fineprint {
+  font-size: small;
+}
+
 img {
   width: 25%;
   height: auto;
